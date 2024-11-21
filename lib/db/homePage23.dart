@@ -1,5 +1,5 @@
 
-import 'package:clean/logi/db/dbHelperSan.dart';
+import 'package:clean/db/dbHelperSan.dart';
 import 'package:flutter/material.dart';
 
 class HomePage23 extends StatefulWidget{

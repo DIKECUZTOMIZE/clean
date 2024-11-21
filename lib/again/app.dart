@@ -1,19 +1,19 @@
-import 'package:clean/db/homePage23.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'homePage.dart';
+
 void main(){
-  runApp(App());
+
+  runApp(App() );
 }
 
 class App extends StatelessWidget{
-  App({super.key});
-
   @override
   Widget build(BuildContext context) {
-
+    // TODO: implement build
      return MaterialApp(
-       home: HomePage23(),
+
      );
   }
 }
